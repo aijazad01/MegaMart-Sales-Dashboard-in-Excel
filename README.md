@@ -1,5 +1,3 @@
-# MegaMart Sales Dashboard in Excel
-
 # MegaMart Sales Dashboard (Jun 2024 – Jun 2025)
 
 This dashboard provides an overview of MegaMart’s sales performance over the 12-month period from June 2024 to June 2025. Key highlights include:
